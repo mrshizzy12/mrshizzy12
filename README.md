@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mrshizzy12
 - 👀 I’m interested in web development using python and Flask/Django 
 - 🌱 I’m currently learning fastapi, vue and react
-- 💞️ I’m looking to collaborate on... 
+- 💞️ I’m looking to collaborate on any interesting projects. 
 - 📫 How to reach me ...
 
 <!---
